@@ -25,8 +25,8 @@ cache:
     - .build/checkouts
     - .build/repositories
 
-# Use Ubuntu 14.04
-dist: trusty
+# Use Ubuntu 16.04
+dist: xenial
 
 osx_image: xcode9.3
 
